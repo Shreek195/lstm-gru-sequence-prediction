@@ -30,24 +30,33 @@ Bitcoin price prediction using **LSTM** and **GRU** models with **85% accuracy**
   <img src="imgs/rmse_comparison.png" alt="RMSE Comparison" width="60%">
 </p> -->
 
+## 📊 Model Visualizations
+
 <p align="center">
+  <b>Bitcoin Price Trend (Historical Data)</b><br>
   <a href="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/bitcoin_trend.png">
     <img src="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/bitcoin_trend.png" 
-         alt="Bitcoin Trend" width="45%">
+         alt="Bitcoin Trend" width="80%">
   </a>
 </p>
 
+<hr style="border: 0.5px solid #bbb;">
+
 <p align="center">
+  <b>Model Predictions vs Actual Prices</b><br>
   <a href="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/model_prediction.png">
     <img src="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/model_prediction.png" 
-         alt="Model Prediction" width="45%">
+         alt="Model Prediction" width="80%">
   </a>
 </p>
 
+<hr style="border: 0.5px solid #bbb;">
+
 <p align="center">
+  <b>RMSE Comparison Across Models (LSTM, GRU, etc.)</b><br>
   <a href="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/rmse_comparison.png">
     <img src="https://raw.githubusercontent.com/Shreek195/lstm-gru-sequence-prediction/main/imgs/rmse_comparison.png" 
-         alt="RMSE Comparision" width="45%">
+         alt="RMSE Comparison" width="70%">
   </a>
 </p>
 
